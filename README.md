@@ -1,2 +1,2 @@
 # CleanArchitectureExample
-This is based on a tutorail by Philip Lackner
+This is based on a tutorial by Philip Lackner
