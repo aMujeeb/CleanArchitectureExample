@@ -1,6 +1,6 @@
 package com.mujeeapps.cryptorapp.data.remote.dto
 
-import com.mujeeapps.cryptorapp.domain.models.CoinDetail
+import com.mujeeapps.cryptorapp.data.repository.models.CoinDetail
 
 data class CoinDetailsDto(
     val description: String,

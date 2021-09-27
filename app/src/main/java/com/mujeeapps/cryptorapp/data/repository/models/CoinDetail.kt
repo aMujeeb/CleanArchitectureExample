@@ -1,4 +1,4 @@
-package com.mujeeapps.cryptorapp.domain.models
+package com.mujeeapps.cryptorapp.data.repository.models
 
 import com.mujeeapps.cryptorapp.data.remote.dto.TeamMember
 

@@ -1,6 +1,6 @@
 package com.mujeeapps.cryptorapp.presentation.coins
 
-import com.mujeeapps.cryptorapp.domain.models.Coin
+import com.mujeeapps.cryptorapp.data.repository.models.Coin
 
 data class CoinListState(
     val isLoading : Boolean = false,

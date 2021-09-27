@@ -1,4 +1,4 @@
-package com.mujeeapps.cryptorapp.domain.models
+package com.mujeeapps.cryptorapp.data.repository.models
 
 data class Coin(
     val id: String,

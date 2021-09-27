@@ -2,7 +2,7 @@ package com.mujeeapps.cryptorapp.domain.use_cases.get_coins
 
 import com.mujeeapps.cryptorapp.common.Resource
 import com.mujeeapps.cryptorapp.data.remote.dto.toCoin
-import com.mujeeapps.cryptorapp.domain.models.Coin
+import com.mujeeapps.cryptorapp.data.repository.models.Coin
 import com.mujeeapps.cryptorapp.domain.repository.CoinRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
