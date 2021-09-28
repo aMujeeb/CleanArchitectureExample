@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CryptorApp"
-        android:name=".CoinApplication">
+        android:name=".app.CryptorApp">
         <activity
             android:name=".presentation.MainActivity"
             android:exported="true"
